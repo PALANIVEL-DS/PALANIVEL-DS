@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Palanivel M!
 
-🎯 **Aspiring Data Analyst & Data Scientist**  
-📍 Based in Salem, India | 💼 Open to Opportunities in Data Analytics, BI & Machine Learning  
+ **Aspiring Data Analyst & Data Scientist**  
+ Based in Salem, Tamilnadu | 💼 Open to Opportunities in Data Analytics, BI & Machine Learning  
 
 ---
 
