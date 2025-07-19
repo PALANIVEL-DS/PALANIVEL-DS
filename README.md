@@ -43,7 +43,7 @@ Analyzed one year of electronics retail sales using advanced SQL (CTEs, window f
 ---
 
 ## 📫 Let's Connect!  
-🔗 [Portfolio Website](https://my-website-73.lovable.app/)  
+🔗 [Portfolio Website](https://palanivel-ds-portfolio.lovable.app/)  
 💼 [LinkedIn](https://www.linkedin.com/in/palanivel-m-3aa636177)  
 🐙 [GitHub](https://github.com/PALANIVEL-DS)  
 📧 [Email](mailto:mpalanivel9262@gmail.com)
